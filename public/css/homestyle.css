@@ -1,0 +1,90 @@
+body{
+	background: linear-gradient(116.82deg, #65DAFF 0%, #6170F7 39.58%, rgba(97, 112, 246, 0.806897) 70.83%, #8A25DA 100%);
+	font-family: 'Montserrat';
+	font-style: normal;
+	
+}
+.heading
+{
+	
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 75px;
+line-height: 91px;
+
+color: #FFFFFF;
+
+/* border: 1px solid rgba(0, 0, 0, 0.04); */
+}
+.desc
+{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+/* border: 1px solid rgba(0, 0, 0, 0.04); */
+}
+.main
+{
+	margin-top: 10%;
+	margin-left: 14%;
+}
+input
+{
+	display: none;
+}
+label
+{
+	cursor: pointer;
+	padding: 28px 10px;
+	color: #fff;
+	background: #00f;
+	
+	border-radius: 50%;
+	
+}
+
+.upload label
+{
+	margin-left: 15%;
+}
+img{
+	width: 274px;
+	height: 256px;
+}
+
+
+#photo
+{
+	display: none;
+}
+
+.submitbtn
+{
+margin-left: 20%;
+width: 537px;
+height: 98px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+letter-spacing: 0.165em;
+
+color: #FEFCFC;
+
+border: 1px solid rgba(0, 0, 0, 0.06);
+background: linear-gradient(86.94deg, #B683AD -6.19%, rgba(107, 92, 198, 0.920406) 68.79%, rgba(82, 1, 255, 0.73) 112.14%);
+border-radius: 72px;
+}
+
