@@ -1,5 +1,4 @@
 torch
-skimage
 numpy
 matplotlib
 argparse
